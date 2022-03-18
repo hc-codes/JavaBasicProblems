@@ -1,0 +1,2321 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0\bin\javadoc.exe
+-sourcepath
+C:\BlueJ\hari
+-source
+1.7
+-classpath
+C:\BlueJ\lib\bluejcore.jar;C:\BlueJ\lib\junit-4.8.2.jar;C:\BlueJ\lib\userlib\pi4j-core.jar;C:\BlueJ\hari;C:\BlueJ\examples;C:\BlueJ\icons;C:\BlueJ\lib;C:\BlueJ\new;C:\Users\hari\Downloads\graphics.zip;C:\BlueJ\lib\userlib\pi4j-core.jar;C:\BlueJ\lib\userlib\pi4j-device.jar;C:\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\BlueJ\lib\userlib\pi4j-service.jar;C:\BlueJ\hari
+-d
+C:\BlueJ\hari\doc
+-encoding
+windows-1252
+-charset
+windows-1252
+-docletpath
+C:\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+-doctitle
+hari
+-windowtitle
+hari
+-author
+-version
+-nodeprecated
+-package
+-link
+http://download.oracle.com/javase/8/docs/api/
+C:\BlueJ\hari/armstrong1.java
+C:\BlueJ\hari/series3.java
+C:\BlueJ\hari/arrmenu.java
+C:\BlueJ\hari/arrayMULT.java
+C:\BlueJ\hari/series1.java
+C:\BlueJ\hari/series2.java
+C:\BlueJ\hari/buzz.java
+C:\BlueJ\hari/sorting.java
+C:\BlueJ\hari/st.java
+C:\BlueJ\hari/cccs.java
+C:\BlueJ\hari/trpattern.java
+C:\BlueJ\hari/array4.java
+C:\BlueJ\hari/array3.java
+C:\BlueJ\hari/array2.java
+C:\BlueJ\hari/rotat.java
+C:\BlueJ\hari/cddsort.java
+C:\BlueJ\hari/init.java
+C:\BlueJ\hari/numToWords.java
+C:\BlueJ\hari/log.java
+C:\BlueJ\hari/Calc.java
+C:\BlueJ\hari/pattrn.java
+C:\BlueJ\hari/big.java
+C:\BlueJ\hari/reve.java
+C:\BlueJ\hari/array.java
+C:\BlueJ\hari/narmstrong.java
+C:\BlueJ\hari/rotate90.java
+C:\BlueJ\hari/palin.java
+C:\BlueJ\hari/sidesort.java
+C:\BlueJ\hari/Homeappliance.java
+C:\BlueJ\hari/pat.java
+C:\BlueJ\hari/division.java
+C:\BlueJ\hari/ccsort.java
+C:\BlueJ\hari/ascending.java
+C:\BlueJ\hari/ads.java
+C:\BlueJ\hari/perfect.java
+C:\BlueJ\hari/fibonacci.java
+C:\BlueJ\hari/pattern4.java
+C:\BlueJ\hari/pattern5.java
+C:\BlueJ\hari/pattern6.java
+C:\BlueJ\hari/reverse.java
+C:\BlueJ\hari/pattern7.java
+C:\BlueJ\hari/CharOrNum.java
+C:\BlueJ\hari/pattern2.java
+C:\BlueJ\hari/SI.java
+C:\BlueJ\hari/pattern3.java
+C:\BlueJ\hari/strpattern.java
+C:\BlueJ\hari/as.java
+C:\BlueJ\hari/sdaToDda.java
+C:\BlueJ\hari/LcmGcD.java
+C:\BlueJ\hari/tribonacci.java
+C:\BlueJ\hari/concat.java
+C:\BlueJ\hari/s.java
+C:\BlueJ\hari/pattern.java
+C:\BlueJ\hari/ddsort.java
+C:\BlueJ\hari/Quiz.java
+C:\BlueJ\hari/factorial.java
+C:\BlueJ\hari/Homeappliances.java
+<---- end of javadoc command ---->
+Loading source file C:\BlueJ\hari/armstrong1.java...
+Loading source file C:\BlueJ\hari/series3.java...
+Loading source file C:\BlueJ\hari/arrmenu.java...
+Loading source file C:\BlueJ\hari/arrayMULT.java...
+Loading source file C:\BlueJ\hari/series1.java...
+Loading source file C:\BlueJ\hari/series2.java...
+Loading source file C:\BlueJ\hari/buzz.java...
+Loading source file C:\BlueJ\hari/sorting.java...
+Loading source file C:\BlueJ\hari/st.java...
+Loading source file C:\BlueJ\hari/cccs.java...
+Loading source file C:\BlueJ\hari/trpattern.java...
+Loading source file C:\BlueJ\hari/array4.java...
+Loading source file C:\BlueJ\hari/array3.java...
+Loading source file C:\BlueJ\hari/array2.java...
+Loading source file C:\BlueJ\hari/rotat.java...
+Loading source file C:\BlueJ\hari/cddsort.java...
+Loading source file C:\BlueJ\hari/init.java...
+Loading source file C:\BlueJ\hari/numToWords.java...
+Loading source file C:\BlueJ\hari/log.java...
+Loading source file C:\BlueJ\hari/Calc.java...
+Loading source file C:\BlueJ\hari/pattrn.java...
+Loading source file C:\BlueJ\hari/big.java...
+Loading source file C:\BlueJ\hari/reve.java...
+Loading source file C:\BlueJ\hari/array.java...
+Loading source file C:\BlueJ\hari/narmstrong.java...
+Loading source file C:\BlueJ\hari/rotate90.java...
+Loading source file C:\BlueJ\hari/palin.java...
+Loading source file C:\BlueJ\hari/sidesort.java...
+Loading source file C:\BlueJ\hari/Homeappliance.java...
+Loading source file C:\BlueJ\hari/pat.java...
+Loading source file C:\BlueJ\hari/division.java...
+Loading source file C:\BlueJ\hari/ccsort.java...
+Loading source file C:\BlueJ\hari/ascending.java...
+Loading source file C:\BlueJ\hari/ads.java...
+C:\BlueJ\hari\ads.java:8: error: illegal character: \8220
+        System.out.println(“***WELCOME TO THE WORLD OF QUIZ!LET US SEE HOW FAR YOU CAN GO.***”);
+                           ^
+C:\BlueJ\hari\ads.java:8: error: illegal start of expression
+        System.out.println(“***WELCOME TO THE WORLD OF QUIZ!LET US SEE HOW FAR YOU CAN GO.***”);
+                             ^
+C:\BlueJ\hari\ads.java:8: error: illegal start of expression
+        System.out.println(“***WELCOME TO THE WORLD OF QUIZ!LET US SEE HOW FAR YOU CAN GO.***”);
+                              ^
+C:\BlueJ\hari\ads.java:8: error: ';' expected
+        System.out.println(“***WELCOME TO THE WORLD OF QUIZ!LET US SEE HOW FAR YOU CAN GO.***”);
+                                      ^
+C:\BlueJ\hari\ads.java:8: error: ';' expected
+        System.out.println(“***WELCOME TO THE WORLD OF QUIZ!LET US SEE HOW FAR YOU CAN GO.***”);
+                                             ^
+C:\BlueJ\hari\ads.java:8: error: ';' expected
+        System.out.println(“***WELCOME TO THE WORLD OF QUIZ!LET US SEE HOW FAR YOU CAN GO.***”);
+                                                      ^
+C:\BlueJ\hari\ads.java:8: error: not a statement
+        System.out.println(“***WELCOME TO THE WORLD OF QUIZ!LET US SEE HOW FAR YOU CAN GO.***”);
+                                                       ^
+C:\BlueJ\hari\ads.java:8: error: ';' expected
+        System.out.println(“***WELCOME TO THE WORLD OF QUIZ!LET US SEE HOW FAR YOU CAN GO.***”);
+                                                           ^
+C:\BlueJ\hari\ads.java:8: error: ';' expected
+        System.out.println(“***WELCOME TO THE WORLD OF QUIZ!LET US SEE HOW FAR YOU CAN GO.***”);
+                                                                  ^
+C:\BlueJ\hari\ads.java:8: error: ';' expected
+        System.out.println(“***WELCOME TO THE WORLD OF QUIZ!LET US SEE HOW FAR YOU CAN GO.***”);
+                                                                          ^
+C:\BlueJ\hari\ads.java:8: error: ';' expected
+        System.out.println(“***WELCOME TO THE WORLD OF QUIZ!LET US SEE HOW FAR YOU CAN GO.***”);
+                                                                                  ^
+C:\BlueJ\hari\ads.java:8: error: ';' expected
+        System.out.println(“***WELCOME TO THE WORLD OF QUIZ!LET US SEE HOW FAR YOU CAN GO.***”);
+                                                                                         ^
+C:\BlueJ\hari\ads.java:8: error: illegal character: \8221
+        System.out.println(“***WELCOME TO THE WORLD OF QUIZ!LET US SEE HOW FAR YOU CAN GO.***”);
+                                                                                             ^
+C:\BlueJ\hari\ads.java:10: error: illegal character: \8220
+        System.out.println(“********************************************************”);
+                           ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                             ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                              ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                               ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                 ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                  ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                   ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                    ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                     ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                      ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                       ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                        ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                         ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                          ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                           ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                            ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                             ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                              ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                               ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                 ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                  ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                   ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                    ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                     ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                      ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                       ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                        ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                         ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                          ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                           ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                            ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                             ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                              ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                               ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                 ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                  ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                   ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                    ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                     ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                      ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                       ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                        ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                         ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                          ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                           ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                            ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                             ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                              ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                               ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                                ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                                 ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                                  ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                                   ^
+C:\BlueJ\hari\ads.java:10: error: illegal character: \8221
+        System.out.println(“********************************************************”);
+                                                                                    ^
+C:\BlueJ\hari\ads.java:10: error: illegal start of expression
+        System.out.println(“********************************************************”);
+                                                                                     ^
+C:\BlueJ\hari\ads.java:13: error: unclosed string literal
+        System.out.println("==================================================”);
+                           ^
+C:\BlueJ\hari\ads.java:13: error: ';' expected
+        System.out.println("==================================================”);
+                                                                                 ^
+C:\BlueJ\hari\ads.java:14: error: illegal start of expression
+        System.out.println("1.***SPORTS***");
+              ^
+C:\BlueJ\hari\ads.java:14: error: ';' expected
+        System.out.println("1.***SPORTS***");
+                  ^
+C:\BlueJ\hari\ads.java:15: error: unclosed string literal
+        System.out.println("2.***FOOD AND DRINK”);
+                           ^
+C:\BlueJ\hari\ads.java:15: error: ';' expected
+        System.out.println("2.***FOOD AND DRINK”);
+                                                  ^
+C:\BlueJ\hari\ads.java:16: error: illegal start of expression
+        System.out.println("3.***MIXED BAG”);
+              ^
+C:\BlueJ\hari\ads.java:16: error: ';' expected
+        System.out.println("3.***MIXED BAG”);
+                  ^
+C:\BlueJ\hari\ads.java:16: error: unclosed string literal
+        System.out.println("3.***MIXED BAG”);
+                           ^
+C:\BlueJ\hari\ads.java:16: error: ';' expected
+        System.out.println("3.***MIXED BAG”);
+                                             ^
+C:\BlueJ\hari\ads.java:17: error: illegal start of expression
+        System.out.println();
+              ^
+C:\BlueJ\hari\ads.java:17: error: ';' expected
+        System.out.println();
+                  ^
+C:\BlueJ\hari\ads.java:18: error: illegal character: \8220
+        System.out.println(“==================================================”);
+                           ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                              ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                  ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                    ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                      ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                        ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                          ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                            ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                              ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                  ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                    ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                      ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                        ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                          ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                            ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                              ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                                ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                                  ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                                    ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                                      ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                                        ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                                          ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                                            ^
+C:\BlueJ\hari\ads.java:18: error: illegal character: \8221
+        System.out.println(“==================================================”);
+                                                                              ^
+C:\BlueJ\hari\ads.java:18: error: illegal start of expression
+        System.out.println(“==================================================”);
+                                                                               ^
+C:\BlueJ\hari\ads.java:19: error: illegal character: \8220
+        System.out.println(“++++ENTER YOUR CHOICE++++”):
+                           ^
+C:\BlueJ\hari\ads.java:19: error: ';' expected
+        System.out.println(“++++ENTER YOUR CHOICE++++”):
+                                ^
+C:\BlueJ\hari\ads.java:19: error: ';' expected
+        System.out.println(“++++ENTER YOUR CHOICE++++”):
+                                          ^
+C:\BlueJ\hari\ads.java:19: error: illegal character: \8221
+        System.out.println(“++++ENTER YOUR CHOICE++++”):
+                                                     ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                               ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                 ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                  ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                   ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                    ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                     ^
+C:\BlueJ\hari\ads.java:27: error: ')' expected
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                         ^
+C:\BlueJ\hari\ads.java:27: error: ';' expected
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                                       ^
+C:\BlueJ\hari\ads.java:27: error: ';' expected
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                                                       ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                                                              ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                                                               ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                                                                ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                                                                 ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                                                                  ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                                                                   ^
+C:\BlueJ\hari\ads.java:27: error: illegal character: \8221
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                                                                    ^
+C:\BlueJ\hari\ads.java:27: error: illegal start of expression
+            System.out.println(^^^^^^^GET READY FOR THE BRAIN CHALLENGE STORM^^^^^^^”);
+                                                                                     ^
+C:\BlueJ\hari\ads.java:28: error: illegal character: \8220
+            System.out.println(“~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”);
+                               ^
+C:\BlueJ\hari\ads.java:28: error: ';' expected
+            System.out.println(“~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”);
+                                ^
+C:\BlueJ\hari\ads.java:28: error: illegal character: \8221
+            System.out.println(“~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”);
+                                                                             ^
+C:\BlueJ\hari\ads.java:28: error: not a statement
+            System.out.println(“~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”);
+                                 ^
+C:\BlueJ\hari\ads.java:28: error: illegal start of expression
+            System.out.println(“~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”);
+                                                                              ^
+C:\BlueJ\hari\ads.java:30: error: illegal character: \8220
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                               ^
+C:\BlueJ\hari\ads.java:30: error: illegal start of expression
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                 ^
+C:\BlueJ\hari\ads.java:30: error: illegal start of expression
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                  ^
+C:\BlueJ\hari\ads.java:30: error: illegal start of expression
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                   ^
+C:\BlueJ\hari\ads.java:30: error: illegal start of expression
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                    ^
+C:\BlueJ\hari\ads.java:30: error: ';' expected
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                          ^
+C:\BlueJ\hari\ads.java:30: error: ';' expected
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                                           ^
+C:\BlueJ\hari\ads.java:30: error: ';' expected
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                                                            ^
+C:\BlueJ\hari\ads.java:30: error: illegal start of expression
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                                                                   ^
+C:\BlueJ\hari\ads.java:30: error: illegal start of expression
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                                                                    ^
+C:\BlueJ\hari\ads.java:30: error: illegal start of expression
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                                                                     ^
+C:\BlueJ\hari\ads.java:30: error: illegal start of expression
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                                                                      ^
+C:\BlueJ\hari\ads.java:30: error: illegal start of expression
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                                                                       ^
+C:\BlueJ\hari\ads.java:30: error: illegal start of expression
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                                                                        ^
+C:\BlueJ\hari\ads.java:30: error: illegal character: \8221
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                                                                         ^
+C:\BlueJ\hari\ads.java:30: error: illegal start of expression
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                                                                          ^
+C:\BlueJ\hari\ads.java:30: error: not a statement
+            System.out.println(“*****Which Indian cricketer popularly called JAMMY?******”);
+                                                                                  ^
+C:\BlueJ\hari\ads.java:31: error: illegal character: \8220
+            System.out.println(“####1.Sachin Tendulkar###”);
+                               ^
+C:\BlueJ\hari\ads.java:31: error: illegal character: \35
+            System.out.println(“####1.Sachin Tendulkar###”);
+                                ^
+C:\BlueJ\hari\ads.java:31: error: illegal character: \35
+            System.out.println(“####1.Sachin Tendulkar###”);
+                                 ^
+C:\BlueJ\hari\ads.java:31: error: illegal character: \35
+            System.out.println(“####1.Sachin Tendulkar###”);
+                                  ^
+C:\BlueJ\hari\ads.java:31: error: illegal character: \35
+            System.out.println(“####1.Sachin Tendulkar###”);
+                                   ^
+C:\BlueJ\hari\ads.java:31: error: ';' expected
+            System.out.println(“####1.Sachin Tendulkar###”);
+                                    ^
+C:\BlueJ\hari\ads.java:31: error: illegal character: \35
+            System.out.println(“####1.Sachin Tendulkar###”);
+                                                      ^
+C:\BlueJ\hari\ads.java:31: error: illegal character: \35
+            System.out.println(“####1.Sachin Tendulkar###”);
+                                                       ^
+C:\BlueJ\hari\ads.java:31: error: illegal character: \35
+            System.out.println(“####1.Sachin Tendulkar###”);
+                                                        ^
+C:\BlueJ\hari\ads.java:31: error: illegal character: \8221
+            System.out.println(“####1.Sachin Tendulkar###”);
+                                                         ^
+C:\BlueJ\hari\ads.java:32: error: illegal character: \8220
+            System.out.println(“####2.Saurav Ganguly####”);
+                               ^
+C:\BlueJ\hari\ads.java:32: error: illegal character: \35
+            System.out.println(“####2.Saurav Ganguly####”);
+                                ^
+C:\BlueJ\hari\ads.java:32: error: illegal character: \35
+            System.out.println(“####2.Saurav Ganguly####”);
+                                 ^
+C:\BlueJ\hari\ads.java:32: error: illegal character: \35
+            System.out.println(“####2.Saurav Ganguly####”);
+                                  ^
+C:\BlueJ\hari\ads.java:32: error: illegal character: \35
+            System.out.println(“####2.Saurav Ganguly####”);
+                                   ^
+C:\BlueJ\hari\ads.java:32: error: ';' expected
+            System.out.println(“####2.Saurav Ganguly####”);
+                                    ^
+C:\BlueJ\hari\ads.java:32: error: illegal character: \35
+            System.out.println(“####2.Saurav Ganguly####”);
+                                                    ^
+C:\BlueJ\hari\ads.java:32: error: illegal character: \35
+            System.out.println(“####2.Saurav Ganguly####”);
+                                                     ^
+C:\BlueJ\hari\ads.java:32: error: illegal character: \35
+            System.out.println(“####2.Saurav Ganguly####”);
+                                                      ^
+C:\BlueJ\hari\ads.java:32: error: illegal character: \35
+            System.out.println(“####2.Saurav Ganguly####”);
+                                                       ^
+C:\BlueJ\hari\ads.java:32: error: illegal character: \8221
+            System.out.println(“####2.Saurav Ganguly####”);
+                                                        ^
+C:\BlueJ\hari\ads.java:33: error: illegal character: \8220
+            System.out.println(“####3.Yuvraj singh####”);
+                               ^
+C:\BlueJ\hari\ads.java:33: error: illegal character: \35
+            System.out.println(“####3.Yuvraj singh####”);
+                                ^
+C:\BlueJ\hari\ads.java:33: error: illegal character: \35
+            System.out.println(“####3.Yuvraj singh####”);
+                                 ^
+C:\BlueJ\hari\ads.java:33: error: illegal character: \35
+            System.out.println(“####3.Yuvraj singh####”);
+                                  ^
+C:\BlueJ\hari\ads.java:33: error: illegal character: \35
+            System.out.println(“####3.Yuvraj singh####”);
+                                   ^
+C:\BlueJ\hari\ads.java:33: error: ';' expected
+            System.out.println(“####3.Yuvraj singh####”);
+                                    ^
+C:\BlueJ\hari\ads.java:33: error: illegal character: \35
+            System.out.println(“####3.Yuvraj singh####”);
+                                                  ^
+C:\BlueJ\hari\ads.java:33: error: illegal character: \35
+            System.out.println(“####3.Yuvraj singh####”);
+                                                   ^
+C:\BlueJ\hari\ads.java:33: error: illegal character: \35
+            System.out.println(“####3.Yuvraj singh####”);
+                                                    ^
+C:\BlueJ\hari\ads.java:33: error: illegal character: \35
+            System.out.println(“####3.Yuvraj singh####”);
+                                                     ^
+C:\BlueJ\hari\ads.java:33: error: illegal character: \8221
+            System.out.println(“####3.Yuvraj singh####”);
+                                                      ^
+C:\BlueJ\hari\ads.java:34: error: illegal character: \8220
+            System.out.println(“####4.Rahul Dravid####”);
+                               ^
+C:\BlueJ\hari\ads.java:34: error: illegal character: \35
+            System.out.println(“####4.Rahul Dravid####”);
+                                ^
+C:\BlueJ\hari\ads.java:34: error: illegal character: \35
+            System.out.println(“####4.Rahul Dravid####”);
+                                 ^
+C:\BlueJ\hari\ads.java:34: error: illegal character: \35
+            System.out.println(“####4.Rahul Dravid####”);
+                                  ^
+C:\BlueJ\hari\ads.java:34: error: illegal character: \35
+            System.out.println(“####4.Rahul Dravid####”);
+                                   ^
+C:\BlueJ\hari\ads.java:34: error: ';' expected
+            System.out.println(“####4.Rahul Dravid####”);
+                                    ^
+C:\BlueJ\hari\ads.java:34: error: illegal character: \35
+            System.out.println(“####4.Rahul Dravid####”);
+                                                  ^
+C:\BlueJ\hari\ads.java:34: error: illegal character: \35
+            System.out.println(“####4.Rahul Dravid####”);
+                                                   ^
+C:\BlueJ\hari\ads.java:34: error: illegal character: \35
+            System.out.println(“####4.Rahul Dravid####”);
+                                                    ^
+C:\BlueJ\hari\ads.java:34: error: illegal character: \35
+            System.out.println(“####4.Rahul Dravid####”);
+                                                     ^
+C:\BlueJ\hari\ads.java:34: error: illegal character: \8221
+            System.out.println(“####4.Rahul Dravid####”);
+                                                      ^
+C:\BlueJ\hari\ads.java:35: error: illegal character: \8220
+            System.out.println(“Enter your choice”);
+                               ^
+C:\BlueJ\hari\ads.java:35: error: ';' expected
+            System.out.println(“Enter your choice”);
+                                ^
+C:\BlueJ\hari\ads.java:35: error: illegal character: \8221
+            System.out.println(“Enter your choice”);
+                                                 ^
+C:\BlueJ\hari\ads.java:40: error: illegal character: \8220
+                System.out.println(“~~~~~~~~~~~~ YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~~~~~”);
+                                   ^
+C:\BlueJ\hari\ads.java:40: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~ YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~~~~~”);
+                                    ^
+C:\BlueJ\hari\ads.java:40: error: not a statement
+                System.out.println(“~~~~~~~~~~~~ YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~~~~~”);
+                                     ^
+C:\BlueJ\hari\ads.java:40: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~ YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~~~~~”);
+                                                    ^
+C:\BlueJ\hari\ads.java:40: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~ YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~~~~~”);
+                                                           ^
+C:\BlueJ\hari\ads.java:40: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~ YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~~~~~”);
+                                                                     ^
+C:\BlueJ\hari\ads.java:40: error: not a statement
+                System.out.println(“~~~~~~~~~~~~ YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~~~~~”);
+                                                                      ^
+C:\BlueJ\hari\ads.java:40: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~ YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~~~~~”);
+                                                                           ^
+C:\BlueJ\hari\ads.java:40: error: illegal character: \8221
+                System.out.println(“~~~~~~~~~~~~ YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~~~~~”);
+                                                                                            ^
+C:\BlueJ\hari\ads.java:42: error: illegal character: \8220
+                System.out.println(“YOUR SCORE IS”+sc);
+                                   ^
+C:\BlueJ\hari\ads.java:42: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                    ^
+C:\BlueJ\hari\ads.java:42: error: illegal character: \8221
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                 ^
+C:\BlueJ\hari\ads.java:42: error: not a statement
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                   ^
+C:\BlueJ\hari\ads.java:42: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                     ^
+C:\BlueJ\hari\ads.java:45: error: illegal character: \8220
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                               ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                 ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                  ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                   ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                    ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                     ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                      ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                       ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                        ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                         ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                          ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                           ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                            ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                             ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                              ^
+C:\BlueJ\hari\ads.java:45: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                               ^
+C:\BlueJ\hari\ads.java:45: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                                     ^
+C:\BlueJ\hari\ads.java:45: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                                                 ^
+C:\BlueJ\hari\ads.java:45: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                                                           ^
+C:\BlueJ\hari\ads.java:45: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                                                                       ^
+C:\BlueJ\hari\ads.java:45: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                                                                                 ^
+C:\BlueJ\hari\ads.java:45: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                                                                                              ^
+C:\BlueJ\hari\ads.java:45: error: illegal character: \8221
+            System.out.println(“^^^^^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!THE CORRECT ANSWER IS RAHUL DRAVID.^^^^^^^^^^^^^^”);
+                                                                                                                             ^
+C:\BlueJ\hari\ads.java:46: error: illegal character: \8220
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                               ^
+C:\BlueJ\hari\ads.java:46: error: illegal start of expression
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                 ^
+C:\BlueJ\hari\ads.java:46: error: illegal start of expression
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                  ^
+C:\BlueJ\hari\ads.java:46: error: illegal start of expression
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                   ^
+C:\BlueJ\hari\ads.java:46: error: illegal start of expression
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                    ^
+C:\BlueJ\hari\ads.java:46: error: illegal start of expression
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                     ^
+C:\BlueJ\hari\ads.java:46: error: illegal start of expression
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                      ^
+C:\BlueJ\hari\ads.java:46: error: illegal start of expression
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                       ^
+C:\BlueJ\hari\ads.java:46: error: illegal start of expression
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                        ^
+C:\BlueJ\hari\ads.java:46: error: illegal start of expression
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                         ^
+C:\BlueJ\hari\ads.java:46: error: illegal start of expression
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                          ^
+C:\BlueJ\hari\ads.java:46: error: illegal start of expression
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                           ^
+C:\BlueJ\hari\ads.java:46: error: illegal start of expression
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                            ^
+C:\BlueJ\hari\ads.java:46: error: ';' expected
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                                  ^
+C:\BlueJ\hari\ads.java:46: error: ';' expected
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                                         ^
+C:\BlueJ\hari\ads.java:46: error: ';' expected
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                                                        ^
+C:\BlueJ\hari\ads.java:46: error: ';' expected
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                                                                 ^
+C:\BlueJ\hari\ads.java:46: error: ';' expected
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                                                                               ^
+C:\BlueJ\hari\ads.java:46: error: ';' expected
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                                                                                        ^
+C:\BlueJ\hari\ads.java:46: error: illegal character: \8221
+            System.out.println(“*************Which is the only cricketer to score four Hundreds (not out)**********”);
+                                                                                                                   ^
+C:\BlueJ\hari\ads.java:48: error: illegal character: \8220
+            System.out.println(“1.Ricky ponding”);
+                               ^
+C:\BlueJ\hari\ads.java:48: error: ';' expected
+            System.out.println(“1.Ricky ponding”);
+                                ^
+C:\BlueJ\hari\ads.java:48: error: illegal character: \8221
+            System.out.println(“1.Ricky ponding”);
+                                               ^
+C:\BlueJ\hari\ads.java:49: error: illegal character: \8220
+            Sysyem.out.println(“2.Jacque kalis”);
+                               ^
+C:\BlueJ\hari\ads.java:49: error: ';' expected
+            Sysyem.out.println(“2.Jacque kalis”);
+                                ^
+C:\BlueJ\hari\ads.java:49: error: illegal character: \8221
+            Sysyem.out.println(“2.Jacque kalis”);
+                                              ^
+C:\BlueJ\hari\ads.java:50: error: illegal character: \8220
+            Sysyem.out.println(“3.Brian Lara”);
+                               ^
+C:\BlueJ\hari\ads.java:50: error: ';' expected
+            Sysyem.out.println(“3.Brian Lara”);
+                                ^
+C:\BlueJ\hari\ads.java:50: error: illegal character: \8221
+            Sysyem.out.println(“3.Brian Lara”);
+                                            ^
+C:\BlueJ\hari\ads.java:51: error: illegal character: \8220
+            Sysyem.out.println(“4.Chris Harris”);
+                               ^
+C:\BlueJ\hari\ads.java:51: error: ';' expected
+            Sysyem.out.println(“4.Chris Harris”);
+                                ^
+C:\BlueJ\hari\ads.java:51: error: illegal character: \8221
+            Sysyem.out.println(“4.Chris Harris”);
+                                              ^
+C:\BlueJ\hari\ads.java:52: error: illegal character: \8220
+            System.out.println(“=====ENTER YOUR CHOICE======);
+                               ^
+C:\BlueJ\hari\ads.java:52: error: illegal start of expression
+            System.out.println(“=====ENTER YOUR CHOICE======);
+                                  ^
+C:\BlueJ\hari\ads.java:52: error: illegal start of expression
+            System.out.println(“=====ENTER YOUR CHOICE======);
+                                    ^
+C:\BlueJ\hari\ads.java:52: error: ';' expected
+            System.out.println(“=====ENTER YOUR CHOICE======);
+                                          ^
+C:\BlueJ\hari\ads.java:52: error: ';' expected
+            System.out.println(“=====ENTER YOUR CHOICE======);
+                                                      ^
+C:\BlueJ\hari\ads.java:55: error: ';' expected
+            If(a==3)
+                    ^
+C:\BlueJ\hari\ads.java:58: error: illegal character: \8220
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                   ^
+C:\BlueJ\hari\ads.java:58: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                    ^
+C:\BlueJ\hari\ads.java:58: error: not a statement
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                     ^
+C:\BlueJ\hari\ads.java:58: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                    ^
+C:\BlueJ\hari\ads.java:58: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                           ^
+C:\BlueJ\hari\ads.java:58: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                     ^
+C:\BlueJ\hari\ads.java:58: error: not a statement
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                      ^
+C:\BlueJ\hari\ads.java:58: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                           ^
+C:\BlueJ\hari\ads.java:58: error: illegal character: \8221
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                                        ^
+C:\BlueJ\hari\ads.java:60: error: illegal character: \8220
+                System.out.println(“YOUR SCORE IS”+sc);
+                                   ^
+C:\BlueJ\hari\ads.java:60: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                    ^
+C:\BlueJ\hari\ads.java:60: error: illegal character: \8221
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                 ^
+C:\BlueJ\hari\ads.java:60: error: not a statement
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                   ^
+C:\BlueJ\hari\ads.java:60: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                     ^
+C:\BlueJ\hari\ads.java:62: error: 'else' without 'if'
+            else
+            ^
+C:\BlueJ\hari\ads.java:64: error: illegal character: \8220
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                               ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                 ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                  ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                   ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                    ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                     ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                      ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                       ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                        ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                         ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                          ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                           ^
+C:\BlueJ\hari\ads.java:64: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                 ^
+C:\BlueJ\hari\ads.java:64: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                             ^
+C:\BlueJ\hari\ads.java:64: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                       ^
+C:\BlueJ\hari\ads.java:64: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                      ^
+C:\BlueJ\hari\ads.java:64: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                               ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                                     ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                                      ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                                       ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                                        ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                                         ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                                          ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                                           ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                                            ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                                             ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                                              ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                                               ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                                                ^
+C:\BlueJ\hari\ads.java:64: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS BRIAN LARA^^^^^^^^^^^^^);
+                                                                                                                 ^
+C:\BlueJ\hari\ads.java:65: error: illegal start of expression
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+            ^
+C:\BlueJ\hari\ads.java:65: error: illegal character: \8220
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                 ^
+C:\BlueJ\hari\ads.java:65: error: illegal start of expression
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                   ^
+C:\BlueJ\hari\ads.java:65: error: illegal start of expression
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                    ^
+C:\BlueJ\hari\ads.java:65: error: illegal start of expression
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                     ^
+C:\BlueJ\hari\ads.java:65: error: illegal start of expression
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                      ^
+C:\BlueJ\hari\ads.java:65: error: illegal start of expression
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                       ^
+C:\BlueJ\hari\ads.java:65: error: illegal start of expression
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                        ^
+C:\BlueJ\hari\ads.java:65: error: illegal start of expression
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                         ^
+C:\BlueJ\hari\ads.java:65: error: illegal start of expression
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                          ^
+C:\BlueJ\hari\ads.java:65: error: illegal start of expression
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                           ^
+C:\BlueJ\hari\ads.java:65: error: illegal start of expression
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                            ^
+C:\BlueJ\hari\ads.java:65: error: illegal start of expression
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                             ^
+C:\BlueJ\hari\ads.java:65: error: illegal start of expression
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                              ^
+C:\BlueJ\hari\ads.java:65: error: ';' expected
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                                   ^
+C:\BlueJ\hari\ads.java:65: error: ';' expected
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                                             ^
+C:\BlueJ\hari\ads.java:65: error: ';' expected
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                                                        ^
+C:\BlueJ\hari\ads.java:65: error: ';' expected
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                                                                ^
+C:\BlueJ\hari\ads.java:65: error: ';' expected
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                                                                           ^
+C:\BlueJ\hari\ads.java:65: error: ';' expected
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                                                                                        ^
+C:\BlueJ\hari\ads.java:65: error: illegal character: \8221
+            . System.out.println(“*************What would the letters PB next to an athlets name signify?**********”);
+                                                                                                                   ^
+C:\BlueJ\hari\ads.java:67: error: illegal character: \8220
+            System.out.println(“1.PostBox”);
+                               ^
+C:\BlueJ\hari\ads.java:67: error: ';' expected
+            System.out.println(“1.PostBox”);
+                                ^
+C:\BlueJ\hari\ads.java:67: error: illegal character: \8221
+            System.out.println(“1.PostBox”);
+                                         ^
+C:\BlueJ\hari\ads.java:67: error: not a statement
+            System.out.println(“1.PostBox”);
+                                  ^
+C:\BlueJ\hari\ads.java:68: error: illegal character: \8220
+            System.out.println(“2.PersonalBest”);
+                               ^
+C:\BlueJ\hari\ads.java:68: error: ';' expected
+            System.out.println(“2.PersonalBest”);
+                                ^
+C:\BlueJ\hari\ads.java:68: error: illegal character: \8221
+            System.out.println(“2.PersonalBest”);
+                                              ^
+C:\BlueJ\hari\ads.java:68: error: not a statement
+            System.out.println(“2.PersonalBest”);
+                                  ^
+C:\BlueJ\hari\ads.java:69: error: illegal character: \8220
+            System.out.println(“3.pinball”);
+                               ^
+C:\BlueJ\hari\ads.java:69: error: ';' expected
+            System.out.println(“3.pinball”);
+                                ^
+C:\BlueJ\hari\ads.java:69: error: illegal character: \8221
+            System.out.println(“3.pinball”);
+                                         ^
+C:\BlueJ\hari\ads.java:69: error: not a statement
+            System.out.println(“3.pinball”);
+                                  ^
+C:\BlueJ\hari\ads.java:70: error: illegal character: \8220
+            System.out.println(“4.play Banned”);
+                               ^
+C:\BlueJ\hari\ads.java:70: error: ';' expected
+            System.out.println(“4.play Banned”);
+                                ^
+C:\BlueJ\hari\ads.java:70: error: illegal character: \8221
+            System.out.println(“4.play Banned”);
+                                             ^
+C:\BlueJ\hari\ads.java:71: error: illegal character: \8220
+            System.out.println(“===ENTER YOUR CHOICE===);
+                               ^
+C:\BlueJ\hari\ads.java:71: error: illegal start of expression
+            System.out.println(“===ENTER YOUR CHOICE===);
+                                  ^
+C:\BlueJ\hari\ads.java:71: error: ';' expected
+            System.out.println(“===ENTER YOUR CHOICE===);
+                                        ^
+C:\BlueJ\hari\ads.java:71: error: ';' expected
+            System.out.println(“===ENTER YOUR CHOICE===);
+                                                    ^
+C:\BlueJ\hari\ads.java:74: error: ';' expected
+            If(k1==2)
+                     ^
+C:\BlueJ\hari\ads.java:77: error: illegal character: \8220
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                   ^
+C:\BlueJ\hari\ads.java:77: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                    ^
+C:\BlueJ\hari\ads.java:77: error: not a statement
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                     ^
+C:\BlueJ\hari\ads.java:77: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                    ^
+C:\BlueJ\hari\ads.java:77: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                           ^
+C:\BlueJ\hari\ads.java:77: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                     ^
+C:\BlueJ\hari\ads.java:77: error: not a statement
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                      ^
+C:\BlueJ\hari\ads.java:77: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                           ^
+C:\BlueJ\hari\ads.java:77: error: illegal character: \8221
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                                        ^
+C:\BlueJ\hari\ads.java:79: error: illegal character: \8220
+                System.out.println(“YOUR SCORE IS”+sc);
+                                   ^
+C:\BlueJ\hari\ads.java:79: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                    ^
+C:\BlueJ\hari\ads.java:79: error: illegal character: \8221
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                 ^
+C:\BlueJ\hari\ads.java:79: error: not a statement
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                   ^
+C:\BlueJ\hari\ads.java:79: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                     ^
+C:\BlueJ\hari\ads.java:81: error: 'else' without 'if'
+            else
+            ^
+C:\BlueJ\hari\ads.java:83: error: illegal character: \8220
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                               ^
+C:\BlueJ\hari\ads.java:83: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                 ^
+C:\BlueJ\hari\ads.java:83: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                  ^
+C:\BlueJ\hari\ads.java:83: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                   ^
+C:\BlueJ\hari\ads.java:83: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                    ^
+C:\BlueJ\hari\ads.java:83: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                     ^
+C:\BlueJ\hari\ads.java:83: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                      ^
+C:\BlueJ\hari\ads.java:83: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                       ^
+C:\BlueJ\hari\ads.java:83: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                        ^
+C:\BlueJ\hari\ads.java:83: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                         ^
+C:\BlueJ\hari\ads.java:83: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                          ^
+C:\BlueJ\hari\ads.java:83: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                           ^
+C:\BlueJ\hari\ads.java:83: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                                 ^
+C:\BlueJ\hari\ads.java:83: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                                             ^
+C:\BlueJ\hari\ads.java:83: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                                                       ^
+C:\BlueJ\hari\ads.java:83: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                                                                      ^
+C:\BlueJ\hari\ads.java:83: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS PERSSONALBEST^^^^^^^^^^^^^);
+                                                                                                       ^
+C:\BlueJ\hari\ads.java:84: error: illegal start of expression
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+            ^
+C:\BlueJ\hari\ads.java:84: error: illegal character: \8220
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                 ^
+C:\BlueJ\hari\ads.java:84: error: illegal start of expression
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                   ^
+C:\BlueJ\hari\ads.java:84: error: illegal start of expression
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                    ^
+C:\BlueJ\hari\ads.java:84: error: illegal start of expression
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                     ^
+C:\BlueJ\hari\ads.java:84: error: illegal start of expression
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                      ^
+C:\BlueJ\hari\ads.java:84: error: illegal start of expression
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                       ^
+C:\BlueJ\hari\ads.java:84: error: illegal start of expression
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                        ^
+C:\BlueJ\hari\ads.java:84: error: illegal start of expression
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                         ^
+C:\BlueJ\hari\ads.java:84: error: illegal start of expression
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                          ^
+C:\BlueJ\hari\ads.java:84: error: illegal start of expression
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                           ^
+C:\BlueJ\hari\ads.java:84: error: illegal start of expression
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                            ^
+C:\BlueJ\hari\ads.java:84: error: illegal start of expression
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                             ^
+C:\BlueJ\hari\ads.java:84: error: ';' expected
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                                  ^
+C:\BlueJ\hari\ads.java:84: error: ';' expected
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                                         ^
+C:\BlueJ\hari\ads.java:84: error: ';' expected
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                                                           ^
+C:\BlueJ\hari\ads.java:84: error: ';' expected
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                                                                ^
+C:\BlueJ\hari\ads.java:84: error: not a statement
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                                                                      ^
+C:\BlueJ\hari\ads.java:84: error: ';' expected
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                                                                            ^
+C:\BlueJ\hari\ads.java:84: error: ';' expected
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                                                                                        ^
+C:\BlueJ\hari\ads.java:84: error: ';' expected
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                                                                                                    ^
+C:\BlueJ\hari\ads.java:84: error: ';' expected
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                                                                                                                ^
+C:\BlueJ\hari\ads.java:84: error: not a statement
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                                                                                                                 ^
+C:\BlueJ\hari\ads.java:84: error: ';' expected
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                                                                                                                   ^
+C:\BlueJ\hari\ads.java:84: error: ';' expected
+            . System.out.println(“************What is the shortest distance in a track&field event where the runners are allowed to break lanes?********);
+                                                                                                                                               ^
+C:\BlueJ\hari\ads.java:86: error: illegal character: \8220
+            System.out.println(“1.200m”);
+                               ^
+C:\BlueJ\hari\ads.java:86: error: ';' expected
+            System.out.println(“1.200m”);
+                                ^
+C:\BlueJ\hari\ads.java:86: error: illegal character: \8221
+            System.out.println(“1.200m”);
+                                      ^
+C:\BlueJ\hari\ads.java:86: error: not a statement
+            System.out.println(“1.200m”);
+                                     ^
+C:\BlueJ\hari\ads.java:87: error: illegal character: \8220
+            System.out.println(“2.800m”);
+                               ^
+C:\BlueJ\hari\ads.java:87: error: ';' expected
+            System.out.println(“2.800m”);
+                                ^
+C:\BlueJ\hari\ads.java:87: error: illegal character: \8221
+            System.out.println(“2.800m”);
+                                      ^
+C:\BlueJ\hari\ads.java:87: error: not a statement
+            System.out.println(“2.800m”);
+                                     ^
+C:\BlueJ\hari\ads.java:88: error: illegal character: \8220
+            System.out.println(“3.600m”);
+                               ^
+C:\BlueJ\hari\ads.java:88: error: ';' expected
+            System.out.println(“3.600m”);
+                                ^
+C:\BlueJ\hari\ads.java:88: error: illegal character: \8221
+            System.out.println(“3.600m”);
+                                      ^
+C:\BlueJ\hari\ads.java:88: error: not a statement
+            System.out.println(“3.600m”);
+                                     ^
+C:\BlueJ\hari\ads.java:89: error: illegal character: \8220
+            System.out.println(“4.400”);
+                               ^
+C:\BlueJ\hari\ads.java:89: error: ';' expected
+            System.out.println(“4.400”);
+                                ^
+C:\BlueJ\hari\ads.java:89: error: illegal character: \8221
+            System.out.println(“4.400”);
+                                     ^
+C:\BlueJ\hari\ads.java:89: error: ';' expected
+            System.out.println(“4.400”);
+                                      ^
+C:\BlueJ\hari\ads.java:90: error: illegal character: \8220
+            System.out.println(“====ENTER YOUR CHOICE====);
+                               ^
+C:\BlueJ\hari\ads.java:90: error: illegal start of expression
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                  ^
+C:\BlueJ\hari\ads.java:90: error: ';' expected
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                         ^
+C:\BlueJ\hari\ads.java:90: error: ';' expected
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                                     ^
+C:\BlueJ\hari\ads.java:93: error: ';' expected
+            If(r==2)
+                    ^
+C:\BlueJ\hari\ads.java:96: error: illegal character: \8220
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                   ^
+C:\BlueJ\hari\ads.java:96: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                    ^
+C:\BlueJ\hari\ads.java:96: error: not a statement
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                     ^
+C:\BlueJ\hari\ads.java:96: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                    ^
+C:\BlueJ\hari\ads.java:96: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                           ^
+C:\BlueJ\hari\ads.java:96: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                     ^
+C:\BlueJ\hari\ads.java:96: error: not a statement
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                      ^
+C:\BlueJ\hari\ads.java:96: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                           ^
+C:\BlueJ\hari\ads.java:96: error: illegal character: \8221
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                                        ^
+C:\BlueJ\hari\ads.java:98: error: illegal character: \8220
+                System.out.println(“YOUR SCORE IS”+sc);
+                                   ^
+C:\BlueJ\hari\ads.java:98: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                    ^
+C:\BlueJ\hari\ads.java:98: error: illegal character: \8221
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                 ^
+C:\BlueJ\hari\ads.java:98: error: not a statement
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                   ^
+C:\BlueJ\hari\ads.java:98: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                     ^
+C:\BlueJ\hari\ads.java:100: error: 'else' without 'if'
+            else
+            ^
+C:\BlueJ\hari\ads.java:102: error: illegal character: \8220
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                               ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                 ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                  ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                   ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                    ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                     ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                      ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                       ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                        ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                         ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                          ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                           ^
+C:\BlueJ\hari\ads.java:102: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                 ^
+C:\BlueJ\hari\ads.java:102: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                             ^
+C:\BlueJ\hari\ads.java:102: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                       ^
+C:\BlueJ\hari\ads.java:102: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                      ^
+C:\BlueJ\hari\ads.java:102: error: not a statement
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                       ^
+C:\BlueJ\hari\ads.java:102: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                         ^
+C:\BlueJ\hari\ads.java:102: error: <identifier> expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                               ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                                ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                                 ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                                  ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                                   ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                                    ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                                     ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                                      ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                                       ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                                        ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                                         ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                                          ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                                           ^
+C:\BlueJ\hari\ads.java:102: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS 800m.^^^^^^^^^^^^^);
+                                                                                                            ^
+C:\BlueJ\hari\ads.java:103: error: illegal start of expression
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+            ^
+C:\BlueJ\hari\ads.java:103: error: illegal character: \8220
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                 ^
+C:\BlueJ\hari\ads.java:103: error: illegal start of expression
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                   ^
+C:\BlueJ\hari\ads.java:103: error: illegal start of expression
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                    ^
+C:\BlueJ\hari\ads.java:103: error: illegal start of expression
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                     ^
+C:\BlueJ\hari\ads.java:103: error: illegal start of expression
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                      ^
+C:\BlueJ\hari\ads.java:103: error: illegal start of expression
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                       ^
+C:\BlueJ\hari\ads.java:103: error: illegal start of expression
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                        ^
+C:\BlueJ\hari\ads.java:103: error: illegal start of expression
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                         ^
+C:\BlueJ\hari\ads.java:103: error: illegal start of expression
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                          ^
+C:\BlueJ\hari\ads.java:103: error: ';' expected
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                              ^
+C:\BlueJ\hari\ads.java:103: error: ';' expected
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                                               ^
+C:\BlueJ\hari\ads.java:103: error: ';' expected
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                                                        ^
+C:\BlueJ\hari\ads.java:103: error: ';' expected
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                                                                       ^
+C:\BlueJ\hari\ads.java:103: error: ';' expected
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                                                                                 ^
+C:\BlueJ\hari\ads.java:103: error: ';' expected
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                                                                                           ^
+C:\BlueJ\hari\ads.java:103: error: illegal character: \8221
+            . System.out.println(“*********The standard colours of which sporting event are green and puple*********”);
+                                                                                                                    ^
+C:\BlueJ\hari\ads.java:105: error: illegal character: \8220
+            System.out.println(“”1.Davis cup”);
+                               ^
+C:\BlueJ\hari\ads.java:105: error: illegal character: \8221
+            System.out.println(“”1.Davis cup”);
+                                ^
+C:\BlueJ\hari\ads.java:105: error: not a statement
+            System.out.println(“”1.Davis cup”);
+                                 ^
+C:\BlueJ\hari\ads.java:105: error: ';' expected
+            System.out.println(“”1.Davis cup”);
+                                    ^
+C:\BlueJ\hari\ads.java:105: error: illegal character: \8221
+            System.out.println(“”1.Davis cup”);
+                                            ^
+C:\BlueJ\hari\ads.java:106: error: illegal character: \8220
+            System.out.println(“2.Asian cup”);
+                               ^
+C:\BlueJ\hari\ads.java:106: error: ';' expected
+            System.out.println(“2.Asian cup”);
+                                ^
+C:\BlueJ\hari\ads.java:106: error: illegal character: \8221
+            System.out.println(“2.Asian cup”);
+                                           ^
+C:\BlueJ\hari\ads.java:107: error: illegal character: \8220
+            System.out.println(“3.Wimbeldon”);
+                               ^
+C:\BlueJ\hari\ads.java:107: error: ';' expected
+            System.out.println(“3.Wimbeldon”);
+                                ^
+C:\BlueJ\hari\ads.java:107: error: illegal character: \8221
+            System.out.println(“3.Wimbeldon”);
+                                           ^
+C:\BlueJ\hari\ads.java:107: error: not a statement
+            System.out.println(“3.Wimbeldon”);
+                                  ^
+C:\BlueJ\hari\ads.java:108: error: illegal character: \8220
+            System.out.println(“4.Euro cup”);
+                               ^
+C:\BlueJ\hari\ads.java:108: error: malformed floating point literal
+            System.out.println(“4.Euro cup”);
+                                ^
+C:\BlueJ\hari\ads.java:108: error: illegal character: \8221
+            System.out.println(“4.Euro cup”);
+                                          ^
+C:\BlueJ\hari\ads.java:109: error: illegal character: \8220
+            System.out.println(“====ENTER YOUR CHOICE====);
+                               ^
+C:\BlueJ\hari\ads.java:109: error: illegal start of expression
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                  ^
+C:\BlueJ\hari\ads.java:109: error: ';' expected
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                         ^
+C:\BlueJ\hari\ads.java:109: error: ';' expected
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                                     ^
+C:\BlueJ\hari\ads.java:116: error: illegal character: \8220
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                   ^
+C:\BlueJ\hari\ads.java:116: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                    ^
+C:\BlueJ\hari\ads.java:116: error: not a statement
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                     ^
+C:\BlueJ\hari\ads.java:116: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                    ^
+C:\BlueJ\hari\ads.java:116: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                           ^
+C:\BlueJ\hari\ads.java:116: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                     ^
+C:\BlueJ\hari\ads.java:116: error: not a statement
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                      ^
+C:\BlueJ\hari\ads.java:116: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                           ^
+C:\BlueJ\hari\ads.java:116: error: illegal character: \8221
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                                        ^
+C:\BlueJ\hari\ads.java:118: error: illegal character: \8220
+                System.out.println(“YOUR SCORE IS”+sc);
+                                   ^
+C:\BlueJ\hari\ads.java:118: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                    ^
+C:\BlueJ\hari\ads.java:118: error: illegal character: \8221
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                 ^
+C:\BlueJ\hari\ads.java:118: error: not a statement
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                   ^
+C:\BlueJ\hari\ads.java:118: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                     ^
+C:\BlueJ\hari\ads.java:122: error: illegal character: \8220
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                   ^
+C:\BlueJ\hari\ads.java:122: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                     ^
+C:\BlueJ\hari\ads.java:122: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                      ^
+C:\BlueJ\hari\ads.java:122: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                       ^
+C:\BlueJ\hari\ads.java:122: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                        ^
+C:\BlueJ\hari\ads.java:122: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                         ^
+C:\BlueJ\hari\ads.java:122: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                          ^
+C:\BlueJ\hari\ads.java:122: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                           ^
+C:\BlueJ\hari\ads.java:122: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                            ^
+C:\BlueJ\hari\ads.java:122: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                             ^
+C:\BlueJ\hari\ads.java:122: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                              ^
+C:\BlueJ\hari\ads.java:122: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                               ^
+C:\BlueJ\hari\ads.java:122: error: ';' expected
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                                     ^
+C:\BlueJ\hari\ads.java:122: error: ';' expected
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                                                 ^
+C:\BlueJ\hari\ads.java:122: error: ';' expected
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                                                           ^
+C:\BlueJ\hari\ads.java:122: error: ';' expected
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                                                                          ^
+C:\BlueJ\hari\ads.java:122: error: ';' expected
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS WIMBELDON^^^^^^^^^^^^^);
+                                                                                                       ^
+C:\BlueJ\hari\ads.java:123: error: illegal character: \8220
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                               ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                 ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                  ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                   ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                    ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                     ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                      ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                       ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                        ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                         ^
+C:\BlueJ\hari\ads.java:123: error: ';' expected
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                             ^
+C:\BlueJ\hari\ads.java:123: error: ';' expected
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                                          ^
+C:\BlueJ\hari\ads.java:123: error: ';' expected
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                                                         ^
+C:\BlueJ\hari\ads.java:123: error: not a statement
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                                                          ^
+C:\BlueJ\hari\ads.java:123: error: ';' expected
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                                                            ^
+C:\BlueJ\hari\ads.java:123: error: ';' expected
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                                                                         ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                                                                                ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                                                                                 ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                                                                                  ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                                                                                   ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                                                                                    ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                                                                                     ^
+C:\BlueJ\hari\ads.java:123: error: illegal character: \8221
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                                                                                      ^
+C:\BlueJ\hari\ads.java:123: error: illegal start of expression
+            System.out.println(“**********The olymbic gold medal consists of 5.2%of which metal*******”);
+                                                                                                       ^
+C:\BlueJ\hari\ads.java:125: error: illegal character: \8220
+            System.out.println(“”1.gold”);
+                               ^
+C:\BlueJ\hari\ads.java:125: error: illegal character: \8221
+            System.out.println(“”1.gold”);
+                                ^
+C:\BlueJ\hari\ads.java:125: error: not a statement
+            System.out.println(“”1.gold”);
+                                 ^
+C:\BlueJ\hari\ads.java:125: error: ';' expected
+            System.out.println(“”1.gold”);
+                                   ^
+C:\BlueJ\hari\ads.java:125: error: illegal character: \8221
+            System.out.println(“”1.gold”);
+                                       ^
+C:\BlueJ\hari\ads.java:127: error: illegal character: \8220
+            System.out.println(“2.platinum”);
+                               ^
+C:\BlueJ\hari\ads.java:127: error: ';' expected
+            System.out.println(“2.platinum”);
+                                ^
+C:\BlueJ\hari\ads.java:127: error: illegal character: \8221
+            System.out.println(“2.platinum”);
+                                          ^
+C:\BlueJ\hari\ads.java:127: error: not a statement
+            System.out.println(“2.platinum”);
+                                  ^
+C:\BlueJ\hari\ads.java:128: error: illegal character: \8220
+            System.out.println(“3.Silver”);
+                               ^
+C:\BlueJ\hari\ads.java:128: error: ';' expected
+            System.out.println(“3.Silver”);
+                                ^
+C:\BlueJ\hari\ads.java:128: error: illegal character: \8221
+            System.out.println(“3.Silver”);
+                                        ^
+C:\BlueJ\hari\ads.java:128: error: not a statement
+            System.out.println(“3.Silver”);
+                                  ^
+C:\BlueJ\hari\ads.java:129: error: illegal character: \8220
+            System.out.println(“4.copper”);
+                               ^
+C:\BlueJ\hari\ads.java:129: error: ';' expected
+            System.out.println(“4.copper”);
+                                ^
+C:\BlueJ\hari\ads.java:129: error: illegal character: \8221
+            System.out.println(“4.copper”);
+                                        ^
+C:\BlueJ\hari\ads.java:129: error: not a statement
+            System.out.println(“4.copper”);
+                                  ^
+C:\BlueJ\hari\ads.java:130: error: illegal character: \8220
+            System.out.println(“====ENTER YOUR CHOICE====);
+                               ^
+C:\BlueJ\hari\ads.java:130: error: illegal start of expression
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                  ^
+C:\BlueJ\hari\ads.java:130: error: ';' expected
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                         ^
+C:\BlueJ\hari\ads.java:130: error: ';' expected
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                                     ^
+C:\BlueJ\hari\ads.java:133: error: ';' expected
+            If(z==1)
+                    ^
+C:\BlueJ\hari\ads.java:137: error: illegal character: \8220
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                   ^
+C:\BlueJ\hari\ads.java:137: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                    ^
+C:\BlueJ\hari\ads.java:137: error: not a statement
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                     ^
+C:\BlueJ\hari\ads.java:137: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                    ^
+C:\BlueJ\hari\ads.java:137: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                           ^
+C:\BlueJ\hari\ads.java:137: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                     ^
+C:\BlueJ\hari\ads.java:137: error: not a statement
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                      ^
+C:\BlueJ\hari\ads.java:137: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                           ^
+C:\BlueJ\hari\ads.java:137: error: illegal character: \8221
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                                        ^
+C:\BlueJ\hari\ads.java:139: error: illegal character: \8220
+                System.out.println(“YOUR SCORE IS”+sc);
+                                   ^
+C:\BlueJ\hari\ads.java:139: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                    ^
+C:\BlueJ\hari\ads.java:139: error: illegal character: \8221
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                 ^
+C:\BlueJ\hari\ads.java:139: error: not a statement
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                   ^
+C:\BlueJ\hari\ads.java:139: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                     ^
+C:\BlueJ\hari\ads.java:141: error: 'else' without 'if'
+            else
+            ^
+C:\BlueJ\hari\ads.java:143: error: illegal character: \8220
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                               ^
+C:\BlueJ\hari\ads.java:143: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                 ^
+C:\BlueJ\hari\ads.java:143: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                  ^
+C:\BlueJ\hari\ads.java:143: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                   ^
+C:\BlueJ\hari\ads.java:143: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                    ^
+C:\BlueJ\hari\ads.java:143: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                     ^
+C:\BlueJ\hari\ads.java:143: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                      ^
+C:\BlueJ\hari\ads.java:143: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                       ^
+C:\BlueJ\hari\ads.java:143: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                        ^
+C:\BlueJ\hari\ads.java:143: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                         ^
+C:\BlueJ\hari\ads.java:143: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                          ^
+C:\BlueJ\hari\ads.java:143: error: illegal start of expression
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                           ^
+C:\BlueJ\hari\ads.java:143: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                                 ^
+C:\BlueJ\hari\ads.java:143: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                                             ^
+C:\BlueJ\hari\ads.java:143: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                                                       ^
+C:\BlueJ\hari\ads.java:143: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                                                                      ^
+C:\BlueJ\hari\ads.java:143: error: ';' expected
+            System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS GOLD.^^^^^^^^^^^^^);
+                                                                                              ^
+C:\BlueJ\hari\ads.java:144: error: illegal start of expression
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                               ^
+C:\BlueJ\hari\ads.java:144: error: illegal start of expression
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                ^
+C:\BlueJ\hari\ads.java:144: error: illegal start of expression
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                 ^
+C:\BlueJ\hari\ads.java:144: error: illegal start of expression
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                  ^
+C:\BlueJ\hari\ads.java:144: error: illegal start of expression
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                   ^
+C:\BlueJ\hari\ads.java:144: error: illegal start of expression
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                    ^
+C:\BlueJ\hari\ads.java:144: error: illegal start of expression
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                     ^
+C:\BlueJ\hari\ads.java:144: error: illegal start of expression
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                      ^
+C:\BlueJ\hari\ads.java:144: error: illegal start of expression
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                       ^
+C:\BlueJ\hari\ads.java:144: error: ')' expected
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                             ^
+C:\BlueJ\hari\ads.java:144: error: ';' expected
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                                            ^
+C:\BlueJ\hari\ads.java:144: error: ';' expected
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                                                       ^
+C:\BlueJ\hari\ads.java:144: error: ';' expected
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                                                                   ^
+C:\BlueJ\hari\ads.java:144: error: ';' expected
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                                                                            ^
+C:\BlueJ\hari\ads.java:144: error: illegal character: \8221
+            System.out.println(*********Which of these games is usually played only by Girls*********”);
+                                                                                                     ^
+C:\BlueJ\hari\ads.java:145: error: illegal character: \8220
+            System.out.println(“1.Volley ball”);
+                               ^
+C:\BlueJ\hari\ads.java:145: error: ';' expected
+            System.out.println(“1.Volley ball”);
+                                ^
+C:\BlueJ\hari\ads.java:145: error: illegal character: \8221
+            System.out.println(“1.Volley ball”);
+                                             ^
+C:\BlueJ\hari\ads.java:146: error: illegal character: \8220
+            System.out.println(“2.Net ball”);
+                               ^
+C:\BlueJ\hari\ads.java:146: error: ';' expected
+            System.out.println(“2.Net ball”);
+                                ^
+C:\BlueJ\hari\ads.java:146: error: illegal character: \8221
+            System.out.println(“2.Net ball”);
+                                          ^
+C:\BlueJ\hari\ads.java:147: error: illegal character: \8220
+            System.out.println(“3.Base ball”);
+                               ^
+C:\BlueJ\hari\ads.java:147: error: ';' expected
+            System.out.println(“3.Base ball”);
+                                ^
+C:\BlueJ\hari\ads.java:147: error: illegal character: \8221
+            System.out.println(“3.Base ball”);
+                                           ^
+C:\BlueJ\hari\ads.java:148: error: illegal character: \8220
+            System.out.println(“4.Lawn tennis”);
+                               ^
+C:\BlueJ\hari\ads.java:148: error: ';' expected
+            System.out.println(“4.Lawn tennis”);
+                                ^
+C:\BlueJ\hari\ads.java:148: error: illegal character: \8221
+            System.out.println(“4.Lawn tennis”);
+                                             ^
+C:\BlueJ\hari\ads.java:149: error: illegal character: \8220
+            System.out.println(“====ENTER YOUR CHOICE====);
+                               ^
+C:\BlueJ\hari\ads.java:149: error: illegal start of expression
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                  ^
+C:\BlueJ\hari\ads.java:149: error: ';' expected
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                         ^
+C:\BlueJ\hari\ads.java:149: error: ';' expected
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                                     ^
+C:\BlueJ\hari\ads.java:156: error: illegal character: \8220
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                   ^
+C:\BlueJ\hari\ads.java:156: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                    ^
+C:\BlueJ\hari\ads.java:156: error: not a statement
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                     ^
+C:\BlueJ\hari\ads.java:156: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                    ^
+C:\BlueJ\hari\ads.java:156: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                           ^
+C:\BlueJ\hari\ads.java:156: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                     ^
+C:\BlueJ\hari\ads.java:156: error: not a statement
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                      ^
+C:\BlueJ\hari\ads.java:156: error: ';' expected
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                           ^
+C:\BlueJ\hari\ads.java:156: error: illegal character: \8221
+                System.out.println(“~~~~~~~~~~~~~YOU ARE ON THE RIGHT TRACK~~~~~~~~~~~~~”);
+                                                                                        ^
+C:\BlueJ\hari\ads.java:158: error: illegal character: \8220
+                System.out.println(“YOUR SCORE IS”+sc);
+                                   ^
+C:\BlueJ\hari\ads.java:158: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                    ^
+C:\BlueJ\hari\ads.java:158: error: illegal character: \8221
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                 ^
+C:\BlueJ\hari\ads.java:158: error: not a statement
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                   ^
+C:\BlueJ\hari\ads.java:158: error: ';' expected
+                System.out.println(“YOUR SCORE IS”+sc);
+                                                     ^
+C:\BlueJ\hari\ads.java:162: error: illegal character: \8220
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                   ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                     ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                      ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                       ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                        ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                         ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                          ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                           ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                            ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                             ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                              ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                               ^
+C:\BlueJ\hari\ads.java:162: error: ';' expected
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                     ^
+C:\BlueJ\hari\ads.java:162: error: ';' expected
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                 ^
+C:\BlueJ\hari\ads.java:162: error: ';' expected
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                           ^
+C:\BlueJ\hari\ads.java:162: error: ';' expected
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                          ^
+C:\BlueJ\hari\ads.java:162: error: ';' expected
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                 ^
+C:\BlueJ\hari\ads.java:162: error: <identifier> expected
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                       ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                        ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                         ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                          ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                           ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                            ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                             ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                              ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                               ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                                ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                                 ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                                  ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                                   ^
+C:\BlueJ\hari\ads.java:162: error: illegal start of expression
+                System.out.println(“^^^^^^^^^^^^SORRY BETTER LUCK NEXT TIME!CORRECT ANSWER IS NET BALL.^^^^^^^^^^^^^);
+                                                                                                                    ^
+C:\BlueJ\hari\ads.java:164: error: illegal character: \8220
+            System.out.println(“1.Garfield ”);
+                               ^
+C:\BlueJ\hari\ads.java:164: error: ';' expected
+            System.out.println(“1.Garfield ”);
+                                ^
+C:\BlueJ\hari\ads.java:164: error: illegal character: \8221
+            System.out.println(“1.Garfield ”);
+                                           ^
+C:\BlueJ\hari\ads.java:164: error: not a statement
+            System.out.println(“1.Garfield ”);
+                                  ^
+C:\BlueJ\hari\ads.java:165: error: illegal character: \8220
+            System.out.println(“2.Allan Donald”);
+                               ^
+C:\BlueJ\hari\ads.java:165: error: ';' expected
+            System.out.println(“2.Allan Donald”);
+                                ^
+C:\BlueJ\hari\ads.java:165: error: illegal character: \8221
+            System.out.println(“2.Allan Donald”);
+                                              ^
+C:\BlueJ\hari\ads.java:166: error: illegal character: \8220
+            System.out.println(“3.Lan Chappel”);
+                               ^
+C:\BlueJ\hari\ads.java:166: error: ';' expected
+            System.out.println(“3.Lan Chappel”);
+                                ^
+C:\BlueJ\hari\ads.java:166: error: illegal character: \8221
+            System.out.println(“3.Lan Chappel”);
+                                             ^
+C:\BlueJ\hari\ads.java:167: error: illegal character: \8220
+            System.out.println(“4.Kapil Dev”);
+                               ^
+C:\BlueJ\hari\ads.java:167: error: ';' expected
+            System.out.println(“4.Kapil Dev”);
+                                ^
+C:\BlueJ\hari\ads.java:167: error: illegal character: \8221
+            System.out.println(“4.Kapil Dev”);
+                                           ^
+C:\BlueJ\hari\ads.java:168: error: illegal character: \8220
+            System.out.println(“====ENTER YOUR CHOICE====);
+                               ^
+C:\BlueJ\hari\ads.java:168: error: illegal start of expression
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                  ^
+C:\BlueJ\hari\ads.java:168: error: ';' expected
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                         ^
+C:\BlueJ\hari\ads.java:168: error: ';' expected
+            System.out.println(“====ENTER YOUR CHOICE====);
+                                                     ^
+C:\BlueJ\hari\ads.java:169: error: reached end of file while parsing
+            int d8=Integer.parseInt(buf.readLine());
+                                                    ^
+C:\BlueJ\hari\ads.java:171: error: reached end of file while parsing
+Loading source file C:\BlueJ\hari/perfect.java...
+Loading source file C:\BlueJ\hari/fibonacci.java...
+Loading source file C:\BlueJ\hari/pattern4.java...
+Loading source file C:\BlueJ\hari/pattern5.java...
+Loading source file C:\BlueJ\hari/pattern6.java...
+Loading source file C:\BlueJ\hari/reverse.java...
+Loading source file C:\BlueJ\hari/pattern7.java...
+Loading source file C:\BlueJ\hari/CharOrNum.java...
+Loading source file C:\BlueJ\hari/pattern2.java...
+Loading source file C:\BlueJ\hari/SI.java...
+Loading source file C:\BlueJ\hari/pattern3.java...
+Loading source file C:\BlueJ\hari/strpattern.java...
+Loading source file C:\BlueJ\hari/as.java...
+Loading source file C:\BlueJ\hari/sdaToDda.java...
+Loading source file C:\BlueJ\hari/LcmGcD.java...
+Loading source file C:\BlueJ\hari/tribonacci.java...
+Loading source file C:\BlueJ\hari/concat.java...
+Loading source file C:\BlueJ\hari/s.java...
+Loading source file C:\BlueJ\hari/pattern.java...
+Loading source file C:\BlueJ\hari/ddsort.java...
+Loading source file C:\BlueJ\hari/Quiz.java...
+Loading source file C:\BlueJ\hari/factorial.java...
+Loading source file C:\BlueJ\hari/Homeappliances.java...
+726 errors

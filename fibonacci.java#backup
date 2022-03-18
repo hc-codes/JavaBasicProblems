@@ -1,0 +1,23 @@
+import java.io.*;
+class fibonacci
+{static double n,a,b,c,i;
+    public static void main(String args[])throws IOException
+    {try{
+            BufferedReader buf=new BufferedReader(new InputStreamReader(System.in));
+            System.out.println("ENTER A NUMBER FOR LIMIT OF THE SERIES TO BE PRODUCED");
+            n=Integer.parseInt(buf.readLine());
+        }catch(Exception e){}
+         System.out.println("FIBONACCI SERIES............");
+        a=0;
+        b=1;
+        System.out.println(a);
+        System.out.println(b);
+        for(i=2;i<=n;i++)
+        {
+            c=a+b;
+            System.out.println(c);
+            a=b;
+            b=c;
+        }
+    }
+}

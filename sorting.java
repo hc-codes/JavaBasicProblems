@@ -1,0 +1,56 @@
+import java.io.*;
+class sorting
+{static int i,n,j,ch;
+
+    public static void main(String args[])throws IOException
+    {
+        BufferedReader buf=new BufferedReader(new InputStreamReader(System.in));
+        System.out.println("<<<  ENTER THE NUMBERS TO BE ARRANGED  >>>");
+        n=Integer.parseInt(buf.readLine());
+        int a[]=new int[n];
+
+        System.out.println("<<< ENTER THE  NUMBERS  TO BE ARRANGED >>>");
+        for(i=0;i<n;i++)
+        {
+            a[i]=Integer.parseInt(buf.readLine());
+        }
+        System.out.println("1:ASCENDING ORDER ");
+        System.out.println("2:DESCENDING ORDER ");
+        System.out.println("ENTER A CHOICE");
+        ch=Integer.parseInt(buf.readLine());
+        for(i=0;i<n;i++)
+        {
+            for(j=0;j<n-i-1;j++)
+            {
+                if(a[j]>a[j+1])
+                {
+                    int t=a[j];
+                    a[j]=a[j+1];
+                    a[j+1]=t;
+                }
+            }
+        }
+        if(ch==1)
+        {
+            System.out.println("NUMBERS ARRANGED IN ASCENDING ORDER IS");
+
+            for(i=0;i<n;i++)
+            {
+                System.out.print("["+a[i]+"]\t");
+            }
+        }
+
+        else
+        if(ch==2)
+        {
+            System.out.println("NUMBERS ARRANGED IN DESCENDING ORDER IS");
+            for(i=n-1;i>=0;i--)
+            {
+                System.out.println(a[i]);
+
+            }
+        }
+        else
+            System.out.println("INVALID CHOICE !!!!!!!!!!!!!!");
+    }
+}

@@ -1,0 +1,66 @@
+import java.io.*;
+class arrayMULT
+{
+    static int i,j,k,p,q,m,n;
+    
+
+    public static void main(String args[])throws IOException
+    {
+        BufferedReader buf=new BufferedReader(new InputStreamReader(System.in));
+        System.out.println("ENTER DIMENSIONS OF 1st ARRAY [][]");
+        m=Integer.parseInt(buf.readLine());
+        n=Integer.parseInt(buf.readLine());
+        System.out.println("ENTER DIMENSIONS OF 2nd ARRAY  [][]");
+        p=Integer.parseInt(buf.readLine());
+        q=Integer.parseInt(buf.readLine());
+
+        if(n!=p)
+            System.out.println("ARRAY NOT SUITABLE FOR MULTIPLICATION");
+
+        else
+        {
+            int a[][]=new int[m][n];
+            int b[][]=new int[p][q];
+            int c[][]=new int[m][q];
+            System.out.println("ENTER ELEMENTS OF 1st ARRAY");
+           
+                for(i=0;i<m;i++)
+                {
+                    for(j=0;j<n;j++)
+                    {
+                        a[i][j]=Integer.parseInt(buf.readLine());
+                    }
+                }
+            System.out.println("ENTER ELEMENTS OF 2nd ARRAY");
+           
+                for(i=0;i<p;i++)
+                {
+                    for(j=0;j<q;j++)
+                    {
+                        b[i][j]=Integer.parseInt(buf.readLine());
+                    }
+                }
+            for(i=0;i<m;i++)
+            {
+                for(j=0;j<q;j++)
+                {
+                    for(k=0;k<n;k++)
+                    {
+                        c[i][j]+=a[i][k]*b[k][j];
+                    }
+                }
+            }
+            System.out.println("PRODUCT OF ARRAYS");
+            for(i=0;i<m;i++)
+            {
+                for(j=0;j<q;j++)
+                {
+                    System.out.print(c[i][j]+"\t");
+                }
+                System.out.println();
+            }
+        }
+    }
+}
+
+                    

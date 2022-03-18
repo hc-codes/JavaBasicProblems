@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\r\n\ Called\ by\ the\ browser\ or\ applet\ viewer\ to\ inform\ this\ JApplet\ that\ it\r\n\ has\ been\ loaded\ into\ the\ system.\ It\ is\ always\ called\ before\ the\ first\ \r\n\ time\ that\ the\ start\ method\ is\ called.\r\n
+comment1.params=
+comment1.target=void\ start()
+comment1.text=\r\n\ Called\ by\ the\ browser\ or\ applet\ viewer\ to\ inform\ this\ JApplet\ that\ it\ \r\n\ should\ start\ its\ execution.\ It\ is\ called\ after\ the\ init\ method\ and\ \r\n\ each\ time\ the\ JApplet\ is\ revisited\ in\ a\ Web\ page.\ \r\n
+comment2.params=
+comment2.target=void\ stop()
+comment2.text=\ \r\n\ Called\ by\ the\ browser\ or\ applet\ viewer\ to\ inform\ this\ JApplet\ that\r\n\ it\ should\ stop\ its\ execution.\ It\ is\ called\ when\ the\ Web\ page\ that\r\n\ contains\ this\ JApplet\ has\ been\ replaced\ by\ another\ page,\ and\ also\r\n\ just\ before\ the\ JApplet\ is\ to\ be\ destroyed.\ \r\n
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+comment3.text=\r\n\ Paint\ method\ for\ applet.\r\n\ \r\n\ @param\ \ g\ \ \ the\ Graphics\ object\ for\ this\ applet\r\n
+comment4.params=
+comment4.target=void\ destroy()
+comment4.text=\r\n\ Called\ by\ the\ browser\ or\ applet\ viewer\ to\ inform\ this\ JApplet\ that\ it\r\n\ is\ being\ reclaimed\ and\ that\ it\ should\ destroy\ any\ resources\ that\ it\r\n\ has\ allocated.\ The\ stop\ method\ will\ always\ be\ called\ before\ destroy.\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getAppletInfo()
+comment5.text=\r\n\ Returns\ information\ about\ this\ applet.\ \r\n\ An\ applet\ should\ override\ this\ method\ to\ return\ a\ String\ containing\ \r\n\ information\ about\ the\ author,\ version,\ and\ copyright\ of\ the\ JApplet.\r\n\r\n\ @return\ a\ String\ representation\ of\ information\ about\ this\ JApplet\r\n
+comment6.params=
+comment6.target=java.lang.String[][]\ getParameterInfo()
+comment6.text=\r\n\ Returns\ parameter\ information\ about\ this\ JApplet.\ \r\n\ Returns\ information\ about\ the\ parameters\ than\ are\ understood\ by\ this\ JApplet.\r\n\ An\ applet\ should\ override\ this\ method\ to\ return\ an\ array\ of\ Strings\ \r\n\ describing\ these\ parameters.\ \r\n\ Each\ element\ of\ the\ array\ should\ be\ a\ set\ of\ three\ Strings\ containing\ \r\n\ the\ name,\ the\ type,\ and\ a\ description.\r\n\r\n\ @return\ a\ String[]\ representation\ of\ parameter\ information\ about\ this\ JApplet\r\n
+numComments=7
